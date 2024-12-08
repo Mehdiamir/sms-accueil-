@@ -1,0 +1,234 @@
+h2.title2 {
+	margin-left: 80px;
+}
+h2.title2 span.red {
+	margin-left: -80px;
+}
+ul.list1 li {
+	width: 100%;
+}
+.icon_boxes_con.style1 .service_box h3{
+	font-weight: 700;
+}
+.team_block .person_desc {
+	max-height: 250px;
+}
+.icon_boxes_con.style1 .service_box .service_box_con {
+	min-height: 260px;
+}
+.btn_b.read_more {
+	display: inline-block;
+	width: 90px;
+}
+#logo{
+	display: block;
+	border-radius: 100%;
+	width: 150px;
+	height: 120px;
+	position: absolute;
+	background-color: #FFFFFF;
+	top: -10px;
+}
+#logo > a {
+	height: 95px;
+}
+#logo > a img {
+	max-height: 90%;
+	top: 5px;
+	left: 10px;
+}
+.light_header #logo .logo_dark {
+	top: 10px;
+	left: 10px;
+}
+.feature_icon_slider .owl-controls {
+	position: relative;
+}
+#solutions_section .bg_overlay{
+	background: rgba(0, 0, 0, 0.83);
+}
+.main_title.offers.second {
+	margin-top: 70px;
+}
+.plan_column1 > h6.mpack .plan_price_block,
+.plan_col > h6.mpack .polygon_con {
+	max-width: 200px;
+}
+.plan_column1 > h6.mpack .plan_price_block {
+	width: 140px;
+}
+.plan_column1 > h6.mpack .plan_price_block .plan_price_in .price {
+	font-size: 20px;
+}
+.my_col_half:last-child {
+	float: right;
+}
+.error, .problem {
+	color: rgb(204, 0, 0);
+	font-family: courier;
+	font-weight: normal;
+}
+
+.my_col_all.my_col_two_thirds {
+	width: 66.6666%;
+	padding-right: 15px;
+}
+.my_col_all {
+	width: 100%;
+	float: left;
+	position: relative;
+}
+.my_col_all:last-child {
+	padding-right: 0px;
+}
+.my_col_all.loading .hint {
+	margin-left: 10px;
+	margin-top:5px;
+	vertical-align: middle;
+}
+.my_col_all.error .hint,
+.my_col_all.problem .hint {
+	margin-left: 45px;
+	display: block;
+	vertical-align: middle;
+}
+.my_col_all.loading img {
+	vertical-align: middle;
+}
+
+.my_col_all.error i.lfc_icon,
+.my_col_all.problem i.lfc_icon,
+.my_col_all.success i.lfc_icon {
+	font-size: 28px;
+}
+.my_col_all.error i.lfc_icon,
+.my_col_all.problem i.lfc_icon {
+	color: #d00;
+}
+.my_col_all.success i.lfc_icon {
+	color: #9c0;
+	display: inline-block;
+    width: 15%;
+    float: left;
+}
+.my_col_all.success span.hint {	
+	display: inline-block;
+    width: 85%;
+    float: right;
+    text-align: left;
+}
+.my_col_all.hintpos {
+	margin-top: 45%;
+}
+.lfc_user_row .my_col_third {
+	float: right;
+}
+.service_box {
+	margin-bottom: 20px;
+}
+.service_box .service_box_fun {
+	padding-top: 30px;
+	min-height: 233px;
+}
+.service_box .func_img {
+	background: #fff;
+	border: 5px solid #f3efef;
+	display: block;
+	overflow: hidden;
+	max-width: 190px;
+	margin: 8px auto 0;
+	padding: 5px;
+}
+.service_box .func_img, .func_img img{
+	border-radius: 100%;
+	-moz-border-radius: 100%;
+	-webkit-border-radius: 100%;
+	-ms-border-radius: 100%;
+	-o-border-radius: 100%;
+}
+.bg_header1.enar_parallax {
+	background-position: 50% 45% !important;
+}
+.icon_boxes_con.style1 > .col-md-4.noclear {
+	clear: none;
+}
+.service_box_con > ul ,
+.api_box_con > ul {
+	margin-bottom: 20px;
+    	margin-left: 50px;
+	list-style-type: circle;
+}
+.service_box h2 {
+	color: #ff8800;
+	font-size: 26px;
+	font-weight: 700;
+	margin: 0 0 12px;
+	text-transform: uppercase;
+}
+.icon_boxes_con.style1 .service_box > .icon i.color3 {
+	background: #888888;
+}
+.col-md-12.centered .btn_c {
+	margin-top: 0;
+}
+.rows_container > .col-md-4.api_box_con:nth-child(3n+1) {
+	clear: none;
+}
+.rows_container > .col-md-8.api_box_con:not(:first-child) > h4 {
+	margin-top: 30px;
+}
+#apidoc_section .row_spacer {
+	padding-top: 0;
+}
+.form_row .my_col_all {
+	text-align: center;
+	margin-left: 20%;
+	max-width: 80%;
+}
+.hm_contact_form .form_loader {
+	background: none;
+}
+.no_padding_top {
+	padding-top: 0 !important;
+}
+.img_dotted_border {
+	padding: 10px;
+	border: 1px dotted #ff8800;
+}
+.icon_boxes_con.style1 .service_box {
+	margin-bottom: 40px;
+}
+.icons_spacer {
+	margin-bottom: 0;
+	padding-bottom: 40px;
+}
+
+/*-------------------------------------------------------------
+                    Sections BG Image
+-------------------------------------------------------------*/
+.bg1.lazyloaded {
+	background-image: url("../images/bg1.jpg");
+}
+.bg3.lazyloaded {
+	background-image: url("../images/bg3.jpg");
+}
+.bg9.lazyloaded {
+	background-image: url("../images/bg9.jpg");
+}
+.bg1 {
+	background-image: none;
+}
+.bg3 {
+	background-image: none;
+}
+.bg9 {
+	background-image: none;
+	background-color: #444;
+}
+
+@media screen and (max-width: 480px) {
+	.form_row .my_col_all {
+		margin: 20px 0;
+		max-width: 100%;
+	}
+}

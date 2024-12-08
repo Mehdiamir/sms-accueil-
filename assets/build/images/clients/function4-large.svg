@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new 0 0 400 400"
+   height="400"
+   viewBox="0 0 400 400"
+   width="400"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="function4-large.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.755"
+     inkscape:cx="199.7151"
+     inkscape:cy="200"
+     inkscape:window-width="1680"
+     inkscape:window-height="946"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     d="m262.41 97.038-67.428 103.842-73.849-44.364 81.16 100.927z"
+     fill="#939598"
+     id="path1" />
+  <path
+     d="m202.29 34.301c-92 0-166.576 74.579-166.576 166.579s74.576 166.579 166.576 166.579 166.579-74.579 166.579-166.579-74.579-166.579-166.579-166.579zm0 309.749c-79.07 0-143.17-64.1-143.17-143.17 0-79.073 64.1-143.17 143.17-143.17s143.174 64.097 143.174 143.17c0 79.07-64.104 143.17-143.174 143.17z"
+     fill="#f37021"
+     id="path2"
+     style="fill:#005500" />
+  <g
+     fill="#939598"
+     id="g6">
+    <path
+       d="m289.295 195.788h35.771v10.181h-35.771z"
+       id="path3" />
+    <path
+       d="m82.854 195.788h35.771v10.181h-35.771z"
+       id="path4" />
+    <path
+       d="m197.201 71.131h10.181v35.771h-10.181z"
+       id="path5" />
+    <path
+       d="m197.201 290.407h10.181v35.771h-10.181z"
+       id="path6" />
+  </g>
+</svg>
